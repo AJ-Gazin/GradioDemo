@@ -1,0 +1,8 @@
+etc/
+include/
+lib/
+library/
+Scripts/
+share/
+__pycache__/
+test.ipynb
